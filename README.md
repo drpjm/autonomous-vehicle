@@ -1,7 +1,7 @@
 # Autonomous Vehicle
 
 This repo stores my exploration of vehicle dynamics, control, and planning.
-It is for educational purposes.
+It roughly follows along with the concepts presented in *A survey of motion planning and control techniques for self-driving urban vehicles* that was [published](https://ieeexplore.ieee.org/abstract/document/7490340) by Brian Paden, *et. al.*
 
 ## Installation
 
